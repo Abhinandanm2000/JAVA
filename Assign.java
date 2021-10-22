@@ -98,9 +98,9 @@ public class Assign {
 	stack1.push(23); 
 	stack1.push(35); 
 	stack1.push(35); 
-	int size = stack1.size();  
-	System.out.println("The size of the stack is: " + size);  
-	System.out.println("The stack contains: " + stack1); 
+	
+	System.out.println(" size of the stack is: " +stack1.size() );  
+	System.out.println(" stack contains: " + stack1); 
 	
 
 		
